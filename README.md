@@ -7,7 +7,8 @@ Make it as general as possible. The goal is to find sequences of files that can 
 Please don't rely on specific characters as delimiters since we can't control how artists name their files. 
 And don't assume anything about the zero-padding.
 
-> Note: This code is written to work with Python 3 and 2 both, so if you see the results inside parentheses you are probably running Python 2.x
+> Please Note: This code is written to work with Python 3 and 2 both, so if you see the results inside parentheses you are probably running Python 2.x
+> Also Note: This is the first iteration of the code and there are number of cosmetic changes/error handling/testings are possible/required. 
 
 ### Usage:
 * Clone the repo
