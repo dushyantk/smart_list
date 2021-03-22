@@ -1,4 +1,4 @@
-# smart_list
+# smart_ls
 Implement the "lss" command in Python.
 
 The command needs to accept one optional argument: a path to the directory or file, similar to the "ls" command.
