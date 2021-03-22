@@ -8,6 +8,7 @@ Please don't rely on specific characters as delimiters since we can't control ho
 And don't assume anything about the zero-padding.
 
 > Please Note: This code is written to work with Python 3 and 2 both, so if you see the results inside parentheses you are probably running Python 2.x
+
 > Also Note: This is the first iteration of the code and there are number of cosmetic changes/error handling/testings are possible/required. 
 
 ### Usage:
