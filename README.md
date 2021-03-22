@@ -7,4 +7,10 @@ Make it as general as possible. The goal is to find sequences of files that can 
 Please don't rely on specific characters as delimiters since we can't control how artists name their files. 
 And don't assume anything about the zero-padding.
 
-# Note: This code is written to work with Python 3 and 2 both, so if you see the results inside parentheses you are probably running Python 2.x
+> Note: This code is written to work with Python 3 and 2 both, so if you see the results inside parentheses you are probably running Python 2.x
+
+### Usage:
+* Clone the repo
+* In a terminal or shell, cd to the cloned directory
+* In the same terminal run:
+  * python lss.py /path/to/directory
