@@ -15,4 +15,4 @@ And don't assume anything about the zero-padding.
 * Clone the repo
 * In a terminal or shell, cd to the cloned directory
 * In the same terminal run:
-  * python lss.py /path/to/directory
+  * ```python lss.py /path/to/directory``` OR ```python lss.py DST_SEQ29``` OR ```python lss.py seq_01```
